@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Cloud-NPC/Cloud-NPC.iml" filepath="$PROJECT_DIR$/Cloud-NPC/Cloud-NPC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CloudMaster/CloudMaster.iml" filepath="$PROJECT_DIR$/CloudMaster/CloudMaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CloudServerAPI/CloudServerAPI.iml" filepath="$PROJECT_DIR$/CloudServerAPI/CloudServerAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CloudWrapper/CloudWrapper.iml" filepath="$PROJECT_DIR$/CloudWrapper/CloudWrapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoudLib/CoudLib.iml" filepath="$PROJECT_DIR$/CoudLib/CoudLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dexiron-Cloud Remake.iml" filepath="$PROJECT_DIR$/Dexiron-Cloud Remake.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+D:\Dexiron-Spigot\Spigot-API-master\Dexiron-Cloud Remake\Cloud-NPC\src\main\java\io\dexiron\cloud\server\npc\filter\FilterManager.java
+D:\Dexiron-Spigot\Spigot-API-master\Dexiron-Cloud Remake\Cloud-NPC\src\main\java\io\dexiron\cloud\server\npc\listener\ListenerNPCInteract.java
+D:\Dexiron-Spigot\Spigot-API-master\Dexiron-Cloud Remake\Cloud-NPC\src\main\java\io\dexiron\cloud\server\npc\commands\CommandSpawnNPC.java
+D:\Dexiron-Spigot\Spigot-API-master\Dexiron-Cloud Remake\Cloud-NPC\src\main\java\io\dexiron\cloud\server\npc\events\PlayerInteractNPCEvent.java
+D:\Dexiron-Spigot\Spigot-API-master\Dexiron-Cloud Remake\Cloud-NPC\src\main\java\io\dexiron\cloud\server\npc\utils\ItemBuilder.java
+D:\Dexiron-Spigot\Spigot-API-master\Dexiron-Cloud Remake\Cloud-NPC\src\main\java\io\dexiron\cloud\server\npc\server\ServerManager.java
+D:\Dexiron-Spigot\Spigot-API-master\Dexiron-Cloud Remake\Cloud-NPC\src\main\java\io\dexiron\cloud\server\npc\packetreader\PacketReader.java
+D:\Dexiron-Spigot\Spigot-API-master\Dexiron-Cloud Remake\Cloud-NPC\src\main\java\io\dexiron\cloud\server\npc\npc\NPCManager.java
+D:\Dexiron-Spigot\Spigot-API-master\Dexiron-Cloud Remake\Cloud-NPC\src\main\java\io\dexiron\cloud\server\npc\filter\Filter.java
+D:\Dexiron-Spigot\Spigot-API-master\Dexiron-Cloud Remake\Cloud-NPC\src\main\java\io\dexiron\cloud\server\npc\npc\NPC.java
+D:\Dexiron-Spigot\Spigot-API-master\Dexiron-Cloud Remake\Cloud-NPC\src\main\java\io\dexiron\cloud\server\npc\npc\Reflections.java
+D:\Dexiron-Spigot\Spigot-API-master\Dexiron-Cloud Remake\Cloud-NPC\src\main\java\io\dexiron\cloud\server\npc\events\PlayerAttackNPCEvent.java
+D:\Dexiron-Spigot\Spigot-API-master\Dexiron-Cloud Remake\Cloud-NPC\src\main\java\io\dexiron\cloud\server\npc\paginator\Paginator.java
+D:\Dexiron-Spigot\Spigot-API-master\Dexiron-Cloud Remake\Cloud-NPC\src\main\java\io\dexiron\cloud\server\npc\NPCPlugin.java
+D:\Dexiron-Spigot\Spigot-API-master\Dexiron-Cloud Remake\Cloud-NPC\src\main\java\io\dexiron\cloud\server\npc\listener\ListenerPlayer.java
+D:\Dexiron-Spigot\Spigot-API-master\Dexiron-Cloud Remake\Cloud-NPC\src\main\java\io\dexiron\cloud\server\npc\inventories\ServerInventory.java
+D:\Dexiron-Spigot\Spigot-API-master\Dexiron-Cloud Remake\Cloud-NPC\src\main\java\io\dexiron\cloud\server\npc\utils\GameProfileBuilder.java

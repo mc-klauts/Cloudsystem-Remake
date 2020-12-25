@@ -1,0 +1,4 @@
+name: CloudAPI
+version: 1.0
+author: Code2Learn
+main: io.dexiron.cloud.server.api.servergroup.CloudAPI

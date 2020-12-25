@@ -1,0 +1,6 @@
+author: Code2Learn
+version: 1.0
+name: CloudAPI
+main: io.dexiron.cloud.server.api.proxy.CloudProxyAPI
+commands:
+    servers:

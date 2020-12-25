@@ -1,0 +1,6 @@
+author: Code2Learn
+name: NPC
+version: 1.0
+main: io.dexiron.cloud.server.npc.NPCPlugin
+commands:
+    npc:
